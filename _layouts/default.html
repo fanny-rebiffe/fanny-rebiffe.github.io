@@ -7,7 +7,7 @@
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    <link rel="stylesheet" href="/online-cv/assets/plugins/font-awesome/css/all.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
@@ -24,11 +24,15 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         
-        <li class="email">✉<i class='fas fa-envelope'></i>
+        <li class="email"><i class="fa fa-envelope" style='color:blue'></i>
         <a href="mailto:fanny.rebiffe.data@gmail.com">fanny.rebiffe.data@gmail.com</a>
         </li>
+        
+        <li class="linked"><i class="fa fa-linkedin" style='color:blue'></i>
+        <a href="https://www.linkedin.com/in/fanny-r-56833198/">Visit my LinkedIn profile</a>
+        </li>
 
-        <p class="view"><a href="https://www.linkedin.com/in/fanny-r-56833198/">Visit my LinkedIn profile </a></p>
+        <p class="view"><a href="https://www.linkedin.com/in/fanny-r-56833198/">Visit my LinkedIn profile</a></p>
 
         {% if site.show_downloads %}
         <ul class="downloads">
