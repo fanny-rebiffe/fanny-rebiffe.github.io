@@ -3,4 +3,6 @@ description: Data scientist
 logo: /img/avatar.PNG
 theme: jekyll-theme-minimal
 show_downloads: false
+github:
+  is_project_page: false
 
