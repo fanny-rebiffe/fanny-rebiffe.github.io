@@ -3,11 +3,14 @@
 @import "{{ site.theme }}";
 header {
   height: 100%;
+  margin:  0px auto;
   background:#009999;
   color: #FEFCFE;
+  padding: 10px 10px 10px 10px;
   
   h1 {
     text-align: center;
+    color: white;
   }
   img {
     border-radius: 50%;
@@ -17,6 +20,9 @@ header {
   }
   p.view {
     text-align: center;
+  }
+  div{
+    background:#75A397;
   }
 }
 body{
