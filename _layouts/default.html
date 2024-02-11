@@ -12,50 +12,11 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
 
-  <style>
-    .collapsible {
-      background-color: white;
-      color: white;
-      cursor: pointer;
-      padding: 3px;
-      width: 100%;
-      border: none;
-      text-align: left;
-      outline: none;
-      font-size: 15px;
-    }
-
-    .active,
-    .collapsible:hover {
-      background-color: rgb(214, 214, 214);
-    }
-
-    .collapsible:after {
-      content: '\002B';
-      color: white;
-      font-weight: bold;
-      float: right;
-      margin-left: 5px;
-    }
-
-    .active:after {
-      content: "\2212";
-    }
-
-    .content {
-      padding: 0 5px;
-      max-height: 0;
-      overflow: hidden;
-      transition: max-height 0.2s ease-out;
-      background-color: $theme-color;
-    }
-  </style>
-
   </head>
   <body>
     <div class="wrapper">
-      <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+      <header style="background-color:black;">
+        <h1><a href="{{ "/" | absolute_url }}"><font color="#00FFBF">Fanny Rebiffé</font></a></h1>
 
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
@@ -93,10 +54,7 @@
 
       {{ content }}
 
-      <div class="video">
-        <video src="/img/Fanny_rebiffe.mp4" class="presentation" control width="100%" height="100%" type="video/mp4" autoplay muted playsinline controls>
-        </video>
-      </div>
+
 
       </section>
       <footer>
