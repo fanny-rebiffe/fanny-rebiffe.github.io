@@ -1,3 +1,3 @@
 # fanny-rebiffe.github.io
 Data scientist &amp; mechatronics engineer
-[infographics](http://fanny-rebiffe.github.io/infographics).
+[infographics](http://fanny-rebiffe.github.io/infographics/Metaheuristic.pdf).
