@@ -3,8 +3,8 @@
 @import "{{ site.theme }}";
 header {
   height: 100%;
-  background:#42A8C0;
-
+  background:#009999;
+  color: #FEFCFE;
   
   h1 {
     text-align: center;
@@ -20,7 +20,9 @@ header {
   }
 }
 body{
-  box-shadow: 0 2 4px #000;
+  div.wrapper{
+    box-shadow: 0 2 4px lightblue;
+  }
 }
 
 
