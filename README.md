@@ -1,13 +1,3 @@
-
-
-
-<dl>
-<div class="video">
-  <video src="/img/Fanny_rebiffe.mp4" class="presentation" control width="100%" height="100%" type="video/mp4" autoplay muted playsinline controls>
-  </video>
-</div>
-</dl>
-
 # Fanny Rebiffé
 Data scientist &amp; mechatronics engineer
 
