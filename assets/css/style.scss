@@ -1,6 +1,12 @@
 ---
 ---
 @import "{{ site.theme }}";
+
+body {
+  height: 100%;
+  margin: 0;
+}
+
 header {
   height: 100%;
   margin:  0px auto;
@@ -25,6 +31,7 @@ header {
   }
   div.logoname{
     background:#009999;
+    padding: 10px 10px 30px 10px;
   }
   div.contact{
     padding: 10px 10px 10px 10px;
@@ -33,9 +40,9 @@ header {
     padding: 10px 10px 10px 10px;
   }
 }
-body{
-  div.wrapper{
-    box-shadow: 0 2 4px lightblue;
+section{
+  div.video{
+    line-height: 0
   }
 }
 
