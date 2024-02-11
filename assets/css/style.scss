@@ -3,8 +3,8 @@
 @import "{{ site.theme }}";
 
 body {
-  height: 100%;
-  margin: 0;
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
 }
 
 header {
@@ -12,6 +12,7 @@ header {
   margin:  0px auto;
   background:#237773;
   color: #FEFCFE;
+  grid-column: 0 / 2;
 
   h1 {
     text-align: center;
@@ -31,19 +32,15 @@ header {
   }
   div.logoname{
     background:#009999;
-    padding: 10px 10px 30px 10px;
+    padding: 10px 10px 20px 10px;
   }
   div.contact{
     padding: 10px 10px 10px 10px;
   }
   div.diploma{
-    padding: 10px 10px 10px 10px;
+    padding: 10px 10px 20px 10px;
   }
 }
-section{
-  div.video{
-    line-height: 0
-  }
-}
+
 
 
