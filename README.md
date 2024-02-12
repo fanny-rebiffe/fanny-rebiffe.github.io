@@ -8,18 +8,29 @@ I aim to contribute to bridging the divide between the industry and AI. My stron
 <div class="video" style="padding-top=56.25%;">
 <video src="/img/Fanny_Rebiffe.mp4" poster="/img/thumbnail.PNG" class="presentation" control width="100%" height="100%" type="video/mp4" controls></video>
 </div>
-
+<p></p>
 ## Infographics
+<div class="row">
+  <div class="column">
+    <a href="http://fanny-rebiffe.github.io/infographics/Metaheuristic.pdf">
+    <img src="http://fanny-rebiffe.github.io/img/meta.JPG" alt="Metaheuristic">
+    </a>
+  </div>
+  <div class="column">
+    <a href="http://fanny-rebiffe.github.io/infographics/Combinatorial_optimization.pdf">
+    <img src="http://fanny-rebiffe.github.io/img/combi.JPG" alt="Combinatorial optimization">
+    </a>
+  </div>
+  <div class="column">
+    <a href="http://fanny-rebiffe.github.io/infographics/Ensemble_Learning.pdf">
+    <img src="http://fanny-rebiffe.github.io/img/ens.jpg" alt="Ensemble learning">
+    </a>
+  </div>
+</div>
 
-<a href="http://fanny-rebiffe.github.io/infographics/Metaheuristic.pdf">
-<img src="http://fanny-rebiffe.github.io/img/meta.JPG" alt="Metaheuristic" style="height:300px;width:auto;">
-</a>
-<a href="http://fanny-rebiffe.github.io/infographics/Combinatorial_optimization.pdf">
-<img src="http://fanny-rebiffe.github.io/img/combi.JPG" alt="Combinatorial optimization" style="height:300px;width:auto;">
-</a>
-<a href="http://fanny-rebiffe.github.io/infographics/Ensemble_Learning.pdf">
-<img src="http://fanny-rebiffe.github.io/img/ens.jpg" alt="Ensemble learning" style="height:300px;width:auto;">
-</a>
+
+
+
 
 ## Presentation
 
