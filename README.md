@@ -9,7 +9,9 @@ I aim to contribute to bridging the divide between the industry and AI. My stron
 <video src="/img/Fanny_Rebiffe.mp4" poster="/img/thumbnail.PNG" class="presentation" control width="100%" height="100%" type="video/mp4" controls></video>
 </div>
 <p></p>
+
 ## Infographics
+
 <div class="row">
   <div class="column">
     <a href="http://fanny-rebiffe.github.io/infographics/Metaheuristic.pdf">
