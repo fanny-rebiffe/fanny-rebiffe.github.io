@@ -13,17 +13,17 @@ I aim to contribute to bridging the divide between the industry and AI. My stron
 <div class="row">
   <div class="column">
     <a href="http://fanny-rebiffe.github.io/infographics/Metaheuristic.pdf">
-    <img src="http://fanny-rebiffe.github.io/img/meta.JPG" alt="Metaheuristic">
+    <embed src="http://fanny-rebiffe.github.io/infographics/Metaheuristic.pdf" alt="Metaheuristic">
     </a>
   </div>
   <div class="column">
     <a href="http://fanny-rebiffe.github.io/infographics/Combinatorial_optimization.pdf">
-    <img src="http://fanny-rebiffe.github.io/img/combi.JPG" alt="Combinatorial optimization">
+    <embed src="https://fanny-rebiffe.github.io/infographics/Combinatorial_optimization.pdf" alt="Combinatorial optimization">
     </a>
   </div>
   <div class="column">
     <a href="http://fanny-rebiffe.github.io/infographics/Ensemble_Learning.pdf">
-    <img src="http://fanny-rebiffe.github.io/img/ens.jpg" alt="Ensemble learning">
+    <embed src="http://fanny-rebiffe.github.io/infographics/Ensemble_Learning.pdf" alt="Ensemble learning">
     </a>
   </div>
 </div>
