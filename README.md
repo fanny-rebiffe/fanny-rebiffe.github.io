@@ -29,10 +29,7 @@ I aim to contribute to bridging the divide between the industry and AI. My stron
     </a>
   </div>
 </div>
-
-
-
-
+<p></p>
 
 ## Presentation
 
