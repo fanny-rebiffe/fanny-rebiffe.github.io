@@ -41,6 +41,18 @@ footer{
 
 section{
   text-justify: inter-word;
+  div.row {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+div.row > div:first-child {
+  margin-right: 15px;
+}
+div.row img {
+  display: block;
+  max-width: 100%;
+}
 }
 
 
