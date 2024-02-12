@@ -1,8 +1,9 @@
-<p style="text-align: left;">Data scientist & mechatronics engineer</p>
+<h1><p style="text-align: left;">Data scientist & mechatronics engineer</p></h1>
 # Data scientist & mechatronics engineer
 
 I aim to contribute to bridging the divide between the industry and AI. My strongest assets include a pragmatic approach developed through my experience as mechatronics engineer, an expertise in data honed as a researcher and communication skills cultivated by a passion for graphic design.
 
+<h1><p style="text-align: left;">Creations</p></h1>
 # Creations
 ## Video
 
