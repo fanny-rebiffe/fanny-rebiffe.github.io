@@ -5,13 +5,13 @@ I aim to contribute to bridging the divide between the industry and AI. My stron
 # Creations
 ## Infographics
 <a href="http://fanny-rebiffe.github.io/infographics/Metaheuristic.pdf">
-<img src="http://fanny-rebiffe.github.io/img/meta.JPG" alt="image" style="height:50px;width:auto;">
+<img src="http://fanny-rebiffe.github.io/img/meta.JPG" alt="Metaheuristic" style="height:75px;width:auto;">
 </a>
 <a href="http://fanny-rebiffe.github.io/infographics/Combinatorial_optimization.pdf">
-<img src="http://fanny-rebiffe.github.io/img/combi.JPG" alt="image" style="height:50px;width:auto;">
+<img src="http://fanny-rebiffe.github.io/img/combi.JPG" alt="Combinatorial optimization" style="height:75px;width:auto;">
 </a>
 <a href="http://fanny-rebiffe.github.io/infographics/Ensemble_Learning.pdf">
-<img src="http://fanny-rebiffe.github.io/img/ens.jpg" alt="image" style="height:50px;width:auto;">
+<img src="http://fanny-rebiffe.github.io/img/ens.jpg" alt="Ensemble learning" style="height:75px;width:auto;">
 </a>
 
 ## Presentation
