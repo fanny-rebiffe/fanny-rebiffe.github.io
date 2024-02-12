@@ -4,7 +4,7 @@ I aim to contribute to bridging the divide between the industry and AI. My stron
 
 # Creations
 ## Infographics
-[![](http://fanny-rebiffe.github.io/img/meta.JPG =50x)](http://fanny-rebiffe.github.io/infographics/Metaheuristic.pdf)
+[![](http://fanny-rebiffe.github.io/img/meta.JPG)](http://fanny-rebiffe.github.io/infographics/Metaheuristic.pdf)
 
 
 ## Presentation
