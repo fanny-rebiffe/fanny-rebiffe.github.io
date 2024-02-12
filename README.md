@@ -14,18 +14,18 @@ I aim to contribute to bridging the divide between the industry and AI. My stron
 
 <div class="row">
   <div class="column">
-    <a href="http://fanny-rebiffe.github.io/infographics/Metaheuristic.pdf">
-    <img src="http://fanny-rebiffe.github.io/img/Meta.jpg" alt="Metaheuristic" style="width:100%">
+    <a href="https://fanny-rebiffe.github.io/infographics/Metaheuristic.pdf">
+    <img src="https://fanny-rebiffe.github.io/img/Meta.jpg" alt="Metaheuristic" style="width:100%">
     </a>
   </div>
   <div class="column">
-    <a href="http://fanny-rebiffe.github.io/infographics/Combinatorial_optimization.pdf">
-    <img src="http://fanny-rebiffe.github.io/img/Combi.jpg" alt="Combinatorial optimization" style="width:100%">
+    <a href="https://fanny-rebiffe.github.io/infographics/Combinatorial_optimization.pdf">
+    <img src="https://fanny-rebiffe.github.io/img/Combi.jpg" alt="Combinatorial optimization" style="width:100%">
     </a>
   </div>
   <div class="column">
-    <a href="http://fanny-rebiffe.github.io/infographics/Ensemble_Learning.pdf">
-    <img src="http://fanny-rebiffe.github.io/img/Ens.jpg" alt="Ensemble learning" style="width:100%">
+    <a href="https://fanny-rebiffe.github.io/infographics/Ensemble_Learning.pdf">
+    <img src="https://fanny-rebiffe.github.io/img/Ens.jpg" alt="Ensemble learning" style="width:100%">
     </a>
   </div>
 </div>
@@ -34,5 +34,5 @@ I aim to contribute to bridging the divide between the industry and AI. My stron
 ## Presentation
 
 <a href="https://www.digishape.nl/nieuws/look-back-online-technical-session-on-ai-sailing-february-7">
-<img src="http://fanny-rebiffe.github.io/img/pres.jpg" alt="MARIN presentation">
+<img src="https://fanny-rebiffe.github.io/img/pres.jpg" alt="MARIN presentation">
 </a>
