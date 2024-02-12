@@ -47,7 +47,10 @@ section{
   width: 100%;
 }
 div.row > div:first-child {
-  margin-right: 15px;
+  margin-right: 5px;
+}
+div.row > div:second-child {
+  margin-right: 5px;
 }
 div.row img {
   display: block;
