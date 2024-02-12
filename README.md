@@ -6,7 +6,10 @@ I aim to contribute to bridging the divide between the industry and AI. My stron
 ## Infographics
 <a href="http://fanny-rebiffe.github.io/infographics/Metaheuristic.pdf">
 <img src="http://fanny-rebiffe.github.io/img/meta.JPG" alt="image" style="width:30px;height:auto;">
-<\a>
+</a>
+<a href="http://fanny-rebiffe.github.io/infographics/Combinatorial.pdf">
+<img src="http://fanny-rebiffe.github.io/img/combi.JPG" alt="image" style="width:30px;height:auto;">
+</a>
 
 ## Presentation
 
