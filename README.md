@@ -1,12 +1,13 @@
 <h1><p style="text-align: left; ">Data scientist <br />
   & mechatronics engineer</p></h1>
 
-I aim to contribute to bridging the divide between the industry and AI. My strongest assets include a pragmatic approach developed through my experience as mechatronics engineer, an expertise in data honed as a researcher and communication skills cultivated by a passion for graphic design.
+I aim to contribute to bridging the divide between the industry and Artificial Intelligence. My strongest assets include a pragmatic approach developed through my experience as mechatronics engineer, an expertise in data honed as a researcher and communication skills cultivated by a passion for graphic design.
 
 <h1><p style="text-align: left; ">Creations</p></h1>
 
 ## Video
 
+I took up the challenge to explain in 2 minutes how I can contribute to the transition toward a data-driven industry.
 <div class="video" style="padding-top=56.25%;">
 <video src="/img/Fanny_Rebiffe.mp4" poster="/img/thumbnail.PNG" class="presentation" control width="100%" height="100%" type="video/mp4" controls></video>
 </div>
@@ -14,6 +15,8 @@ I aim to contribute to bridging the divide between the industry and AI. My stron
 
 ## Infographics
 
+
+I believe that brilliant concepts often go unnoticed because they are presented in dull and unattractive formats. That's why I design infographics to convey ideas and knowledge.
 <div class="row">
   <div class="column">
     <a href="https://fanny-rebiffe.github.io/infographics/Metaheuristic.pdf">
@@ -35,6 +38,7 @@ I aim to contribute to bridging the divide between the industry and AI. My stron
 
 ## Presentation
 
+In a 20-minute presentation, I detail how, through a year of collaborative efforts at MARIN, we trained an AI to sail a boat upwind.
 <a href="https://www.digishape.nl/nieuws/look-back-online-technical-session-on-ai-sailing-february-7">
 <img src="https://fanny-rebiffe.github.io/img/pres.jpg" alt="MARIN presentation">
 </a>
