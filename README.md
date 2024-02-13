@@ -15,8 +15,24 @@ I took up the challenge to explain in 2 minutes how I can contribute to the tran
 
 ## Infographics
 
-
 I believe that brilliant concepts often go unnoticed because they are presented in dull and unattractive formats. That's why I design infographics to convey ideas and knowledge.
+<div class="row">
+  <div class="column">
+    <a href="https://fanny-rebiffe.github.io/infographics/Metaheuristic.pdf">
+    <p style="text-align: center;">Metaheuristic</p>
+    </a>
+  </div>
+  <div class="column">
+    <a href="https://fanny-rebiffe.github.io/infographics/Combinatorial_optimization.pdf">
+    <p style="text-align: center;">Combinatorial optimization</p>
+    </a>
+  </div>
+  <div class="column">
+    <a href="https://fanny-rebiffe.github.io/infographics/Ensemble_Learning.pdf">
+    <p style="text-align: center;">>Ensemble Learning</p>
+  </div>
+</div>
+
 <div class="row">
   <div class="column">
     <a href="https://fanny-rebiffe.github.io/infographics/Metaheuristic.pdf">
@@ -38,7 +54,7 @@ I believe that brilliant concepts often go unnoticed because they are presented 
 
 ## Presentation
 
-In a 20-minute presentation, I detail how, through a year of collaborative efforts at MARIN, we trained an AI to sail a boat upwind.
+In [this 20-minute presentation](https://www.digishape.nl/nieuws/look-back-online-technical-session-on-ai-sailing-february-7), I detail how, through a year of collaborative efforts at MARIN, we trained an AI to sail a boat upwind.
 
 <a href="https://www.digishape.nl/nieuws/look-back-online-technical-session-on-ai-sailing-february-7">
 <img src="https://fanny-rebiffe.github.io/img/pres.jpg" alt="MARIN presentation">
