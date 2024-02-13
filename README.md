@@ -39,6 +39,7 @@ I believe that brilliant concepts often go unnoticed because they are presented 
 ## Presentation
 
 In a 20-minute presentation, I detail how, through a year of collaborative efforts at MARIN, we trained an AI to sail a boat upwind.
+
 <a href="https://www.digishape.nl/nieuws/look-back-online-technical-session-on-ai-sailing-february-7">
 <img src="https://fanny-rebiffe.github.io/img/pres.jpg" alt="MARIN presentation">
 </a>
