@@ -29,7 +29,8 @@ I believe that brilliant concepts often go unnoticed because they are presented 
   </div>
   <div class="column">
     <a href="https://fanny-rebiffe.github.io/infographics/Ensemble_Learning.pdf">
-    <p style="text-align: center;">>Ensemble Learning</p>
+    <p style="text-align: center;">Ensemble Learning</p>
+    </a>
   </div>
 </div>
 
