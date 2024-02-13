@@ -9,7 +9,7 @@ I aim to contribute to bridging the divide between the industry and Artificial I
 
 I took up the challenge to explain in 2 minutes how I can contribute to the transition toward a data-driven industry.
 <div class="video" style="padding-top=56.25%;">
-<video src="/img/Fanny_Rebiffe.mp4" poster="/img/thumbnail.PNG" class="presentation" control width="100%" height="100%" type="video/mp4" controls></video>
+<video src="/video/Fanny_Rebiffe.mp4" poster="/img/thumbnail.PNG" class="presentation" control width="100%" height="100%" type="video/mp4" controls></video>
 </div>
 <p></p>
 
