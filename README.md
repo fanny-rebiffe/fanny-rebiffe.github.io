@@ -16,23 +16,6 @@ I took up the challenge to explain in 2 minutes how I can contribute to the tran
 ## Infographics
 
 I believe that brilliant concepts often go unnoticed because they are presented in dull and unattractive formats. That's why I design infographics to convey ideas and knowledge.
-<div class="row">
-  <div class="column">
-    <a href="https://fanny-rebiffe.github.io/infographics/Metaheuristic.pdf">
-    <p style="text-align: center;">Metaheuristic</p>
-    </a>
-  </div>
-  <div class="column">
-    <a href="https://fanny-rebiffe.github.io/infographics/Combinatorial_optimization.pdf">
-    <p style="text-align: center;">Combinatorial optimization</p>
-    </a>
-  </div>
-  <div class="column">
-    <a href="https://fanny-rebiffe.github.io/infographics/Ensemble_Learning.pdf">
-    <p style="text-align: center;">Ensemble Learning</p>
-    </a>
-  </div>
-</div>
 
 <div class="row">
   <div class="column">
@@ -48,6 +31,23 @@ I believe that brilliant concepts often go unnoticed because they are presented 
   <div class="column">
     <a href="https://fanny-rebiffe.github.io/infographics/Ensemble_Learning.pdf">
     <img src="https://fanny-rebiffe.github.io/img/Ens.jpg" alt="Ensemble learning" style="width:100%">
+    </a>
+  </div>
+</div>
+<div class="row">
+  <div class="column">
+    <a href="https://fanny-rebiffe.github.io/infographics/Metaheuristic.pdf">
+    <p style="text-align: center;">Metaheuristic</p>
+    </a>
+  </div>
+  <div class="column">
+    <a href="https://fanny-rebiffe.github.io/infographics/Combinatorial_optimization.pdf">
+    <p style="text-align: center;">Combinatorial optimization</p>
+    </a>
+  </div>
+  <div class="column">
+    <a href="https://fanny-rebiffe.github.io/infographics/Ensemble_Learning.pdf">
+    <p style="text-align: center;">Ensemble Learning</p>
     </a>
   </div>
 </div>
