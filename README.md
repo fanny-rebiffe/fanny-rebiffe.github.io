@@ -51,7 +51,6 @@ I believe that brilliant concepts often go unnoticed because they are presented 
     </a>
   </div>
 </div>
-<p></p>
 
 ## Presentation
 
