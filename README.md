@@ -3,6 +3,13 @@
 
 I aim to contribute to bridging the divide between the industry and Artificial Intelligence. My strongest assets include a pragmatic approach developed through my experience as mechatronics engineer, an expertise in data honed as a researcher and communication skills cultivated by a passion for graphic design.
 
+<h1><p style="text-align: left; ">Award</p></h1>
+On Monday 4th of November, I was honored to receive the [Maritime Talent Award 2024](https://www.youtube.com/watch?v=UBHr7MEhBWs). This award is a recognition of my contribution to MARIN AI sail project. Reinforcement Learning agents learned autonomously to sail an Optimist in a simulation and managed to transfert successfully their policies to the real world. Beyond training those agents, I have promoted understanding of Reinforcement Learning and designing a user-friendly framework that empower non-experts to train their own RL agents. 
+
+<a href="https://www.youtube.com/watch?v=UBHr7MEhBWs">
+<img src="https://fanny-rebiffe.github.io/img/gala.jpg" alt="Maritime Gala Awards">
+</a>
+
 <h1><p style="text-align: left; ">Creations</p></h1>
 
 ## Video
